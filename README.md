@@ -408,6 +408,24 @@ CORS_ORIGINS=["https://yourdomain.com"]
 
 ---
 
+## 예제 코드
+
+`examples/` 디렉토리에 바로 실행 가능한 예제가 포함되어 있습니다.
+
+| 파일 | 설명 |
+|------|------|
+| [`basic_usage.py`](examples/basic_usage.py) | 동기 방식 기본 사용법 (뉴스 조회, 검색, 공시, 크롤러 상태) |
+| [`async_usage.py`](examples/async_usage.py) | 비동기 동시 조회 + 실시간 뉴스 모니터 |
+| [`stock_alert.py`](examples/stock_alert.py) | 관심 종목 공시/뉴스 알림 시스템 |
+
+```bash
+# 서버 실행 후
+pip install httpx
+python examples/basic_usage.py
+```
+
+---
+
 ## 기술 스택
 
 | 구성 요소 | 기술 |
