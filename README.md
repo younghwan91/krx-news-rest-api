@@ -1,8 +1,9 @@
 # KRX News REST API
 
 [![CI](https://github.com/younghwan91/krx-news-rest-api/actions/workflows/ci.yml/badge.svg)](https://github.com/younghwan91/krx-news-rest-api/actions/workflows/ci.yml)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![License](https://img.shields.io/github/license/younghwan91/krx-news-rest-api)](https://github.com/younghwan91/krx-news-rest-api/blob/main/LICENSE)
 
 한국 주식시장 뉴스와 공시 정보를 다양한 매체에서 자동 수집하여 제공하는 REST API입니다.
 
