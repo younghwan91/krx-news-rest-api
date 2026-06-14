@@ -3,7 +3,7 @@ name = "krx-news-rest-api"
 version = "0.1.0"
 description = "한국 주식시장 뉴스 수집 REST API"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "Apache-2.0" }
 requires-python = ">=3.11"
 authors = [{ name = "young" }]
 classifiers = [
