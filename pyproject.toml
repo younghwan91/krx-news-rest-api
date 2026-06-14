@@ -5,7 +5,7 @@ description = "한국 주식시장 뉴스 수집 REST API"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 requires-python = ">=3.11"
-authors = [{ name = "young" }]
+authors = [{ name = "Younghwan Chae", email = "chyohw97@gmail.com" }]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Framework :: FastAPI",
